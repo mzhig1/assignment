@@ -1,0 +1,15 @@
+1.I have learned to use varible 
+I  have learned how to use keypressed commende  
+3.How to randomize a number from any value i want it to 
+4. how to declare a varible 
+5.how to use a boolean 
+6. I have also learned how to get the uservalue
+7.I have learned how to change the text size 
+8.I have also learned how to use CENTER commaned and how to height and width insted of using numbers 
+9.How to use stage 
+10. How to make it when you click on the ball you get an increase in score 
+11.how to output a varible 
+12.how to decrease the lives if the player doesn't click the ball 
+13. how to make the ball move (speed of the ball )
+14.how to use a loop 
+15.how to declear varibles 
